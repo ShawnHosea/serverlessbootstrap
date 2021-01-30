@@ -1,2 +1,0 @@
-# serverlessbootstrap
-Begin app
