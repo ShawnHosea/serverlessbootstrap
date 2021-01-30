@@ -2,12 +2,12 @@
 begin-app
 
 @static
-fingerprint true
+fingerprint false
 folder public
 ignore
   .js.map
   tiff
-prune true
+prune false
 spa false
 
 
