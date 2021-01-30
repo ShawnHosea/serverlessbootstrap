@@ -1,24 +1,28 @@
-<img src="https://static.begin.app/node-minimal/readme-banner.png" width="553">
+# [serverlessbootstrap.com](https://serverlessbootstrap.com/)
 
-[![Begin build status](https://buildstatus.begin.app/blink-l4i/status.svg)](https://begin.com)
+## Overview
 
-A simple app with the minimum necessary file structure to get started on Begin.
+An email newsletter where you can watch me build a serverless SaaS business from the ground up using Begin.
 
-## Deploy your own
+## Marketing
 
-[![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/begin-examples/node-minimal)
+- Twitter
+- [Sendfox](https://sendfox.com/)
 
-Deploy your own clone of this app to Begin!
+## Products
 
-## Getting started
+An ebook/video course and methodology on how to bootstrap a software company by taking advantage of serverless technology.
 
-- Start the local dev server: `npm start`
-- Lint your code: `npm run lint` (after you've installed a linter, of course)
-- Run your tests: `npm t` (don't forget to write some!)
+ToC:
+- What is serverless?
+- Serverless Platforms
+- Bootstrapping serverless apps
+- Authentication
+- Persistent Storage
+- Deploying your serverless app
 
-## Reference
 
-- [Quickstart](https://docs.begin.com/en/guides/quickstart/) - basics on working locally, project structure, deploying, and accessing your Begin app
-- [Creating new routes](https://docs.begin.com/en/functions/creating-new-functions) - basics on expanding the capabilities of your app
+## Domains
 
-Head to [docs.begin.com](https://docs.begin.com/) to learn more!
+- Production: https://serverlessbootstrap.com
+- Staging: https://staging.serverlessbootstrap.com
