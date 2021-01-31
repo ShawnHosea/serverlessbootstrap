@@ -29,30 +29,31 @@ return `
   <meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
   <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
   <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
 <!-- COMMON TAGS -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
 <title>ServerlessBootstrap</title>
 
 <!-- Search Engine -->
-<meta name="description" content="BOOTSTRAP A SERVERLESS SAAS">
-<meta name="image" content="https://serverlessbootstrap.com/meta.png">
+<meta name="description" content="Learn how to bootstrap a serverless SaaS business">
+<meta name="image" content="https://static-p26ue2-staging.begin.app/blink-l4i/meta.png">
 
 <!-- Schema.org for Google -->
 <meta itemprop="name" content="ServerlessBootstrap™">
-<meta itemprop="description" content="BOOTSTRAP A SERVERLESS SAAS">
-<meta itemprop="image" content="https://serverlessbootstrap.com/meta.png">
+<meta itemprop="description" content="Learn how to bootstrap a serverless SaaS business">
+<meta itemprop="image" content="https://static-p26ue2-staging.begin.app/blink-l4i/meta.png">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="ServerlessBootstrap">
-<meta name="twitter:description" content="BOOTSTRAP A SERVERLESS SAAS">
-<meta name="twitter:image:src" content="https://serverlessbootstrap.com/meta.png">
+<meta name="twitter:description" content="Learn how to bootstrap a serverless SaaS business">
+<meta name="twitter:image:src" content="https://static-p26ue2-staging.begin.app/blink-l4i/meta.png">
 
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
 <meta name="og:title" content="ServerlessBootstrap">
-<meta name="og:description" content="BOOTSTRAP A SERVERLESS SAAS">
-<meta name="og:image" content="https://serverlessbootstrap.com/meta.png">
+<meta name="og:description" content="Learn how to bootstrap a serverless SaaS business">
+<meta name="og:image" content="https://static-p26ue2-staging.begin.app/blink-l4i/meta.png">
 <meta name="og:url" content="https://serverlessbootstrap.com">
 <meta name="og:site_name" content="ServerlessBootstrap">
 <meta name="og:type" content="website">
