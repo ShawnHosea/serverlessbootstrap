@@ -71,6 +71,7 @@ return `
         ${Main(props)}
         ${Footer(props)} 
     </div>
+<script src="https://sendfox.com/js/form.js"></script> 
 </body>
 </html>
 `;

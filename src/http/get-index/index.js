@@ -27,8 +27,7 @@ exports.handler = async function Index (req) {
         <p><input type="email" placeholder="Email" name="email" required /></p>
         
         <p><button type="submit">Watch me build!</button></p>
-        </form>
-        <script src="https://sendfox.com/js/form.js"></script>  
+        </form> 
       </div>
     </div>
     ` 
