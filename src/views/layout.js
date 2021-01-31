@@ -44,7 +44,7 @@ return `
 <meta itemprop="image" content="https://serverlessbootstrap.com/meta.png">
 
 <!-- Twitter -->
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="ServerlessBootstrap">
 <meta name="twitter:description" content="BOOTSTRAP A SERVERLESS SAAS">
 <meta name="twitter:image:src" content="https://serverlessbootstrap.com/meta.png">
