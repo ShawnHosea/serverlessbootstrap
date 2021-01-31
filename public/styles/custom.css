@@ -36,7 +36,7 @@
     min-height: 100%;
     padding: 2rem;
     display: grid;
-    grid-template-rows: 5rem auto 1rem;
+    grid-template-rows: auto auto auto;
   }
 
   .Header {
