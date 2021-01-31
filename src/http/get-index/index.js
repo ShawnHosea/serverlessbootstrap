@@ -21,14 +21,16 @@ exports.handler = async function Index (req) {
         <li>I'll email you with updates only once or twice a month.</li>
       </ul>
       <div className="group">
-        <form method="post" action="https://sendfox.com/form/3l6k00/3ok6lo" class="sendfox-form" id="3ok6lo" data-async="true" data-recaptcha="true">
-        <p><input type="text" placeholder="First Name" name="first_name" required /></p>
-        <p><input type="text" placeholder="Last Name" name="last_name" required /></p>
-        <p><input type="email" placeholder="Email" name="email" required /></p>
-        
-        <p><button type="submit">Watch me build!</button></p>
-        </form> 
-      </div>
+      <form method="post" action="https://sendfox.com/form/3l6k00/3ok6lo" class="sendfox-form" id="3ok6lo" data-async="true" data-recaptcha="true">
+      <p><input type="text" placeholder="First Name" name="first_name" class="formInput" required /></p>
+      <p><input type="text" placeholder="Last Name" name="last_name" class="formInput" required /></p>
+      <p><input type="email" placeholder="Email" name="email" class="formInput" required /></p>
+      <!-- no botz please -->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
+      <p class="button"><button class="btn" type="submit">Watch me build!</button></p>
+      </form>
+    </div>
+    <script src="https://sendfox.com/js/form.js"></script>
     </div>
     ` 
   })
