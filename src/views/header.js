@@ -8,7 +8,7 @@ module.exports = function Header(props) {
 return `
     <div class='Header'>
         <div class='HeaderGroup'>
-            <a href="/"><img height='40px' alt='logo' src="${logo}"></a>
+            <a href="/"><img height='30px' alt='logo' src="${logo}"></a>
         </div>
     </div>
     `;
