@@ -11,8 +11,8 @@ exports.handler = async function Index (req) {
     `<div class="main">
       <h1>ServerlessBootstrap</h1>
       <h3>Watch as I bootstrap a serverless SaaS business from $0 to $10k per month.</h3>
-      <p>Serverless architecture empowers the solo developer to build & interate with immense speed & scalability while keeping costs low. These are critical advantages when bootstrapping a software product from zero.</p>
-      
+      <p>Serverless architecture empowers the solo developer to build & interate with immense speed & scalability while keeping costs low.</p>
+
       <form method="post" action="https://sendfox.com/form/3l6k00/3ok6lo" class="sendfox-form" id="3ok6lo" data-async="true" data-recaptcha="true">
       <p><input type="text" placeholder="First Name" name="first_name" required /></p>
       <p><input type="text" placeholder="Last Name" name="last_name" required /></p>
