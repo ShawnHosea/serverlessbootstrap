@@ -35,8 +35,6 @@
   .wrapper {
     min-height: 100%;
     padding: 2rem;
-    display: grid;
-    grid-template-rows: auto auto auto;
   }
 
   .Header {
