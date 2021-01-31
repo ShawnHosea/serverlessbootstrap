@@ -14,6 +14,9 @@ return `
     <title>Personal Website</title>
     <link rel="stylesheet" type="text/css" href="${arc.static('/styles/styles.css')}">
     <link rel="stylesheet" type="text/css" href="${arc.static('/styles/custom.css')}">
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Eczar:wght@800&family=Work+Sans:wght@300;400;500&display=swap');
+    </style>
 </head>
 <body>
     <div class="wrapper">

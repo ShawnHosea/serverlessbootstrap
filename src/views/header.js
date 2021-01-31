@@ -3,7 +3,7 @@ const arc = require('@architect/functions')
 
 module.exports = function Header(props) {
     
-    let logo = arc.static('logo.svg')
+    let logo = arc.static('logo.png')
    
 return `
     <div class='Header'>
