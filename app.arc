@@ -7,7 +7,7 @@ folder public
 ignore
   .js.map
   tiff
-prune false
+prune true
 spa false
 
 
