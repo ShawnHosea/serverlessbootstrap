@@ -16,11 +16,10 @@ return `
     <link rel="stylesheet" type="text/css" href="${arc.static('/styles/custom.css')}">
 </head>
 <body>
-    <div>
+    <div class="wrapper">
         ${Header(props)}
         ${Main(props)}
-        ${Footer(props)}
-        
+        ${Footer(props)} 
     </div>
 </body>
 </html>

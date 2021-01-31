@@ -3,7 +3,7 @@ module.exports = function Footer() {
 
 return `
     <div class="footer">
-        <span>© ${date} Powered by</span>
+        <span>© ${date} ServerlessBootstrap™ | Powered by</span>
         <a href="https://begin.com/">Begin</a>
     </div>
     `
