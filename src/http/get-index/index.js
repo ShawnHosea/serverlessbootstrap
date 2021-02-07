@@ -12,7 +12,7 @@ exports.handler = async function Index (req) {
       <h1>ServerlessBootstrap</h1>
       <div class="subHeading">
         <a href="https://twitter.com/SHAWNHOSEA"><img height='30px' alt='logo' src="${avi}"></a>
-        <h3>Watch me bootstrap a serverless SaaS business from $0 to $10k per month.</h3>
+        <h3>Watch me bootstrap a serverless SaaS business from $0 to $10k MRR.</h3>
       </div>
       <p>Serverless architecture empowers the solo developer to <strong>build & iterate</strong> with immense <strong>speed & scalability</strong> while keeping overhead costs low.</p>
       <ul>

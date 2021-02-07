@@ -80,6 +80,10 @@
   .main {
     max-width: 500px;
     margin: 0 auto;
+    animation: HeroAnimation;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+    animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
   }
 
   .footer {
