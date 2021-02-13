@@ -16,7 +16,7 @@ exports.handler = async function Index (req) {
       </div>
       <p>Serverless architecture empowers the solo developer to <strong>build & iterate</strong> with immense <strong>speed & scalability</strong> while keeping overhead costs low.</p>
       <ul>
-        <li>I already began working on the idea.</li>
+        <li>I've already started working on the idea.</li>
         <li>I will be using Begin.com to do this.</li>
         <li>I'll email you with updates only once or twice a month.</li>
       </ul>
@@ -29,6 +29,9 @@ exports.handler = async function Index (req) {
       <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
       <p class="button"><button class="btn" type="submit">Watch me build!</button></p>
       </form>
+      <div class="readFirst">
+      <a href="https://sendfox.com/serverlessbootstrap/campaigns">Let me read first.</a>
+      </div>
     </div>
     <script src="https://sendfox.com/js/form.js"></script>
     </div>
