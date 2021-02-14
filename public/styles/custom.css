@@ -144,12 +144,19 @@
   border: none;
   border-radius: .4rem;
   cursor: pointer;
+  animation: HeroAnimation;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
+  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
 .btn:hover {
   background-color: #fff;
   color: #000;
   border: 1px solid #000;
+  filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
+    transform: translateY(-9px);
 }
 
 .readFirst {
